@@ -15,9 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_avicii.mk
+    $(LOCAL_DIR)/derp_avicii.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_avicii-user \
-    cherish_avicii-userdebug \
-    cherish_avicii-eng
+    derp_avicii-userdebug \
